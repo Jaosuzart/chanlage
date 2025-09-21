@@ -55,7 +55,6 @@ body::before {
 }
 
 .container__imagem-robo { 
-    max-width: 500px;
     height: auto;
 }
 
