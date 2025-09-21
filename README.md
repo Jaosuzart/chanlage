@@ -1,7 +1,6 @@
 Chanlage 🌀
-
 Projeto desenvolvido por Jaosuzart — Desafio de JavaScript
-
+Imagem do jogo: <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/e3e35622-9117-4eee-8c0e-9396e73a7399" />
 📚 Sobre
 Chanlage é um jogo / aplicação desenvolvida em JavaScript, HTML e CSS com o propósito de praticar lógica, manipulação do DOM e interatividade no front-end.
 O nome “Chanlage” vem da junção de challenge + change, simbolizando desafios que se transformam em aprendizado contínuo.
