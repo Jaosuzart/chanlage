@@ -7,7 +7,7 @@
 
 body {
     background: linear-gradient(#8d4949af, #a15a5abd, #a55d5d);
-    height: 100vh;
+    height: 160vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -20,14 +20,14 @@ body::before {
     background-position: right;
     content: "";
     position: absolute;
-    width: 40vh;
-    height: 60vh;
+    width: 150vh;
+    height: 70vh;
     opacity: 0.4;
 }
 
 .container {
-    width: 1200px;
-    height: 600px;
+    width: 170vh;
+    height: 120vh;
     display: flex;
     align-items: center;
     justify-content: space-between;
