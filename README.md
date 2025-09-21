@@ -23,7 +23,7 @@ git clone https://github.com/Jaosuzart/chanlage.git
 Acesse a pasta do projeto
 cd chanlage
 Abra o arquivo index.html no seu navegador
-Ou use um servidor local se preferir (ex: Live Server no VSCode ou python -m http.server).
+Ou use um servidor local se preferir (ex: Live Server no VSCode).
 Melhorar interface (feedback visual para acertos/erros, transições)
 🤝 Contribuição
 Contribuições são super bem-vindas! Para participar:
