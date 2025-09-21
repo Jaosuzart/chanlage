@@ -55,8 +55,8 @@ body::before {
 }
 
 .container__imagem-robo {
-    width: 45%;
-    max-width: 400px; 
+    width: 50%;
+    max-width: 500px; 
     height: auto;
 }
 
@@ -74,7 +74,7 @@ body::before {
 
 .container__botao {
     border-radius: 16px;
-    background:  #4197ff;
+    background:  #ffffff3f;
     padding: 16px 24px;
     width: 100%;
     max-width: 350px;
