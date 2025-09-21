@@ -54,10 +54,9 @@ body::before {
     gap: 40px;
 }
 
-.container__imagem-robo {
-    width: 50%;
-    max-width: 500px; 
+.container__imagem-robo { 
     height: auto;
+    aspect-ratio: 1/1;
 }
 
 .container__informacoes {
