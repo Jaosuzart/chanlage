@@ -55,6 +55,7 @@ body::before {
 }
 
 .container__imagem-robo { 
+    object-fit: cover;
     height: auto;
 }
 
